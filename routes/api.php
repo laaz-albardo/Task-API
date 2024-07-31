@@ -1,7 +1,4 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
+require __DIR__ . '/modules/TaskRoute.php';
 
-Route::group(function () {
-    // ...
-});
